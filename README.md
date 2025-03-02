@@ -47,4 +47,5 @@ Interactive prototypes
 
 Responsive design considerations
 
-Typography and color guidelines
+Typography and color guideline
+
